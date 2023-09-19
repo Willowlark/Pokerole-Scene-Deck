@@ -3,6 +3,7 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | A Dodrio and Hydreigon appear to be arguing in the middle of the road up ahead. What's odd is the left heads, right heads, and center heads seem to be in agreement, while each pair is arguing with the other two.",
           "section | Questions",
@@ -12,9 +13,11 @@
 
           "section | Encounter",
 "bullet | Amateur Dodrio",
-"bullet | Amateur Hydreigon"
-        ],
-        "tags": [],
+"bullet | Amateur Hydreigon",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -22,15 +25,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | As you walk, you find a Marshtomp buried up to it's neck in dried mud. It only blinks at you as you walk by.",
           "section | Questions",
           "bullet | Do you help the Marshtomp?",
 "bullet |  How do you help the Marshtomp?",
-"bullet |  There's a reason you're going to have to hurry, what is it?"
-          
-        ],
-        "tags": ["anime"],
+"bullet |  There's a reason you're going to have to hurry, what is it?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "anime"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -38,15 +43,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Recently, crop circles have been appearing field nearby. The locals have 1001 theories on how they're appearing, but no one has guessed the local electric types are attracting lightning strikes during storms.",
           "section | Questions",
           "bullet | What's the weirdest rumor you hear about how the circles started?",
 "bullet |  What does a circle remind you of?",
-"bullet |  Whose taking these crop circles way too seriously and going to do something crazy because of it?"
-          
-        ],
-        "tags": [],
+"bullet |  Whose taking these crop circles way too seriously and going to do something crazy because of it?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -54,15 +61,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The buzz of the town is that all the water type Pokemon in a nearby body of water were found floating on the surface, paralyzed. They're all being cared for by Nurse Joy right now, but no one has figured out the cause...",
           "section | Questions",
           "bullet | How do you investigate?",
 "bullet |  What Electric type caused this?",
-"bullet |  Was it accidental?"
-          
-        ],
-        "tags": [],
+"bullet |  Was it accidental?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -70,15 +79,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | You encounter a person (A disguised Zorua) with eager eyes who doesn't speak at all. They frantically point at an advertisement for an ice cream place nearby, as if looking for directions.",
           "section | Questions",
           "bullet | Do you help them find the place?",
 "bullet |  How do they try to pay?",
-"bullet |  What happens when they transform back into a pokemon after having some ice cream?"
-          
-        ],
-        "tags": [],
+"bullet |  What happens when they transform back into a pokemon after having some ice cream?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -86,15 +97,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Out of nowhere, a Chargabug drops down in front of the PCs, and it's covered with Joltik! The Joltik seems to be draining the electricity from the Chargabug and it looks miserable.",
           "section | Questions",
           "bullet | How do you get the Joltik to give the Chargabug a break?",
 "bullet |  How do you satisfy the Joltik's hunger for electricity?",
-"bullet |  How do you recharge Chargabug?"
-          
-        ],
-        "tags": [],
+"bullet |  How do you recharge Chargabug?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -102,6 +115,7 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party comes across an injured Baby Pokemon and it's parent. The parent seems to be very concerned about the child's injuries and is on high alert.",
           "section | Questions",
@@ -110,9 +124,11 @@
 "bullet |  How do they treat the injuries (Could be damage and/or status)?",
 
           "section | Encounter",
-"bullet | Amateur Parent enraged so it ignores Pain Penalization"
-        ],
-        "tags": ["Misogi"],
+"bullet | Amateur Parent enraged so it ignores Pain Penalization",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Misogi"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -120,15 +136,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Pokemon rangers warn the party that the caves up ahead have some very dangerous Geodude inside. The Geodude have decided to work together ala Tucker's Kobolds and prove that even small fry mons can be a challenge.",
           "section | Questions",
           "bullet | What trap do the Geodude have planned?",
 "bullet |  How are they going to counter pokemon that are super effective against them?",
-"bullet |  What or who caused the Geodude to organize this way?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What or who caused the Geodude to organize this way?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -136,15 +154,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players see a Spheal rolling down a big hill they're walk up/down/nearby. It seems to have no intentions of stopping",
           "section | Questions",
           "bullet | How does Spheal's high speed rolling start to cause problems nearby?",
 "bullet |  What move is it using to speed itself up?",
-"bullet |  How can the party use the environment to stop Spheal?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How can the party use the environment to stop Spheal?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -152,15 +172,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party stumbles on a Deerling and Wooper being attacked by poachers. After a round of combat, an Arcanine appears to protect the Deerling and Wooper.",
           "section | Questions",
           "bullet | Why is the Arcanine protecting these two pokemon?",
 "bullet |  What plan do the poachers have to get to the Arcanine?",
-"bullet |  Will the Arcanine trust the party at all?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Will the Arcanine trust the party at all?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -168,15 +190,17 @@
 "count": 1,
         "title": "Pokemon",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party meets a Pikachu. It's curious about them, and follows them if they try to leave it behind. The Pikachu isn't aggressive, but is itching for a fight with the party. When they do fight, the Pikachu is Master Rank and an incredible battler.",
           "section | Questions",
           "bullet | Does the Pikachu have a trainer, or is it wild?",
 "bullet |  Which member of the party does it take a liking to?",
-"bullet |  Does it feel bad after the battle?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Does it feel bad after the battle?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "FireBrick",
          "icon": "moon-orbit" 
 },
@@ -184,15 +208,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | You meet a Trainer whose listening to loud music via headphones. They walk into a dangerous situation, only for their Growlithe to protect them from it. Growlithe barks angrily at them before stalking off.",
           "section | Questions",
           "bullet | What kind of dangerous situation did they get rescued from?",
 "bullet |  Why do they love this music so much?",
-"bullet |  How do they react to Growlithe's anger?"
-          
-        ],
-        "tags": [],
+"bullet |  How do they react to Growlithe's anger?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -200,15 +226,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | You meet a local doctor whose desperately looking for an Arbok. They say they need the venom of an Arbok to make a cure for one of their patients but they're too afraid to find a wild one to get it from.",
           "section | Questions",
           "bullet | Where do you search for a nearby Arbok?",
 "bullet |  Is it friendly?",
-"bullet |  Did the doctor really need to help a patient or did they have something else in mind?"
-          
-        ],
-        "tags": [],
+"bullet |  Did the doctor really need to help a patient or did they have something else in mind?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -216,15 +244,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The PCs meet a former trainer who got a job in an office. Their pokemon appear mad at them and they generally seem to be unhappy with the career they made for themselves.",
           "section | Questions",
           "bullet | What do the trainers do unintentionally that reminds the worker of their trainer days?",
 "bullet |  How does the worker ask the PCs to help them relive their time as a trainer?",
-"bullet |  What advice do the PCs give them when they ask if they should try being a trainer again?"
-          
-        ],
-        "tags": [],
+"bullet |  What advice do the PCs give them when they ask if they should try being a trainer again?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -232,15 +262,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The PCs meet a trainer that's playing solitaire against their psychic type pokemon. The trainer is a bit of an addict, and their psychic type is so hard to beat it keeps them forever entertained.",
           "section | Questions",
           "bullet | Do the PCs try and beat the Psychic type?",
 "bullet |  What happens when the trainer's deck of cards get damaged?",
-"bullet |  What evil team that the trainer owes money to comes calling?"
-          
-        ],
-        "tags": [],
+"bullet |  What evil team that the trainer owes money to comes calling?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -248,15 +280,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party is stopped on the street by a Trainer with a Vulpix, Growlithe, and a professional Camera. The Trainer asks the party if they could photograph the party's Pokemon to help complete his portfolio.",
           "section | Questions",
           "bullet | Are their Pokemon good models for the Photographer?",
 "bullet |  Does the party dress up their Pokemon?",
-"bullet |  What interrupts the photoshoot?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What interrupts the photoshoot?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -264,16 +298,18 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party meets a Trainer whose a Kantophile and is only a few Pokemon away from completing their Kanto Pokedex. A Pikachu, one of the last Pokemon they need, lives nearby.",
           "section | Questions",
           "bullet | What obstacle stands between the Trainer and the Pokemon they want to catch?",
 "bullet |  How can the party help the Trainer past it?",
 "bullet |  How does the Trainer react to non Kanto Pokemon?",
-"bullet |  Is a Pikachu actually living where he thinks, or is it a Mimikyu?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Is a Pikachu actually living where he thinks, or is it a Mimikyu?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -281,16 +317,18 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players meet a trainer whose paralyzed with indecision over which pokemon to start with. They have reasons for and against each of the regional starters and need to decide today before the Pokemon will be matched with other trainers.",
           "section | Questions",
           "bullet | Which pokemon do the players think the trainer should start with?",
 "bullet |  How do they settle disagreements between each other?",
 "bullet |  How do they help the trainer decide?",
-"bullet |  Which pokemon already wants to go with the trainers when they get to the lab?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Which pokemon already wants to go with the trainers when they get to the lab?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -298,15 +336,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party encounters a trainer that seems to be on a winning streak at a normal courtyard battlefield. Upon approach, they can hear this trainer constantly shouting orders to their Pokemon in such a heavy accent no one can understand wha the pokemon is going to next!",
           "section | Questions",
           "bullet | Is the trainer intentionally confusing people with their accent?",
 "bullet |  What word has the crowd figured means a particular move?",
-"bullet |  What kind of betting pool is happening on the side of the battlefield?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What kind of betting pool is happening on the side of the battlefield?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -314,15 +354,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party meets a trainer who appears to be having an argument with their Eevee. It seems to want to evolve into Glaceon, but the trainer is worried the ice type wouldn't thrive well in the environment they live in (perhaps tropics).",
           "section | Questions",
           "bullet | Are the trainer's concerns valid?",
 "bullet |  What would reassure the trainer that the Glaceon would be okay?",
-"bullet |  How can the players help them reconcile their differences?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How can the players help them reconcile their differences?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -330,15 +372,17 @@
 "count": 1,
         "title": "Trainer",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players meet a trainer with a Mega Lucario who seems to be looking for something. As it turns out, they're detectives and the Mega Lucario uses it's aura powers to sense missing persons.",
           "section | Questions",
           "bullet | Who are they looking for?",
 "bullet |  Have the players met that person?",
-"bullet |  Who else is looking for the person?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Who else is looking for the person?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "DarkBlue",
          "icon": "person" 
 },
@@ -346,15 +390,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | You find a cafe setup on the outskirts of town. It's quaint, cute, and incredibly inviting. Curiously, inside are only Pokemon! A Spinda is at the counter, a Mimikyu and Pikachu are eating treats, and an Alakazam is drinking coffee.",
           "section | Questions",
           "bullet | Do you think the cafe is actually run by Spinda?",
 "bullet |  What kind of food are they serving for humans?",
-"bullet |  Who crashes the cafe and causes a ruckus?"
-          
-        ],
-        "tags": [],
+"bullet |  Who crashes the cafe and causes a ruckus?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -362,15 +408,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The town you're headed to next has a fossil dig nearby! You'd expect it to be a busy place but no one is working when you get there. From the looks of it, something has completely stopped the dig!",
           "section | Questions",
           "bullet | What piece of technology was damaged that's stopped the dig?",
 "bullet |  What Pokemon has taken note of the dig that's preventing them from working?",
-"bullet |  What kind of discovery do the archeologists think they're close to making?"
-          
-        ],
-        "tags": [],
+"bullet |  What kind of discovery do the archeologists think they're close to making?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -378,15 +426,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | People around town are on edge, they say a group of unlucky omens have arrived in town. The omen is a Litten that's looking after some kitten Litten and all the bad luck the people are experiencing is coincidence.",
           "section | Questions",
           "bullet | What bad things have been happening to the townsfolk?",
 "bullet |  What was the Litten really doing?",
-"bullet |  How do the PCs convince the people that the Litten is innocent?"
-          
-        ],
-        "tags": [],
+"bullet |  How do the PCs convince the people that the Litten is innocent?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -394,15 +444,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The latest craze in town is Poke-Tennis! The game is played with a Pokemon and Trainer on each side, and is otherwise identical to tennis. The best part is, there's a new players tournament going on right now!",
           "section | Questions",
           "bullet | What's the prize for winning?",
 "bullet |  Whose being a jerk about winning?",
-"bullet |  What Pokemon does each party member enter with?"
-          
-        ],
-        "tags": [],
+"bullet |  What Pokemon does each party member enter with?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -410,15 +462,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party encounter an older person who warns them that the path up ahead is currently a Seviper/Zangoose battleground! Coincidentally, that's the way they're currently headed.",
           "section | Questions",
           "bullet | What secret advice can the older person give them to navigate the battleground?",
 "bullet |  What do the Seviper have prepared as a trap for the Zangoose?",
-"bullet |  What do the Zangoose have?"
-          
-        ],
-        "tags": [],
+"bullet |  What do the Zangoose have?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -426,15 +480,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The PCs are crossing a desert area and the sand is incredibly hot. Nearby there's a group of people who rent out Hippowoden to ride across the sand.",
           "section | Questions",
           "bullet | What do the Hippowoden owners warn the PCs likes to attack the Hippowoden en-route?",
 "bullet |  What do the owners say the PCs must not let the Hippowoden see en-route?",
-"bullet |  Whose Hippowoden is a finnicky mount?"
-          
-        ],
-        "tags": [],
+"bullet |  Whose Hippowoden is a finnicky mount?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -442,16 +498,18 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party comes across an Alolan Vulpix in the street wearing a cute scarf. It's trainer shows up and introduces the party to the city's annual Pokemon Sledding Challenge, where trainers and one of their pokemon race down a big hill together.",
           "section | Questions",
           "bullet | Which players decide to enter?",
 "bullet |  Do they dress up their mons first?",
 "bullet |  What rival or general jerk is competing and challenges the PCs?",
-"bullet |  Why is this years sledding challenge especially important to the trainer with the Vulpix?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Why is this years sledding challenge especially important to the trainer with the Vulpix?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -459,15 +517,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The kids in town are all abuzz about a spooky house where you'll fall asleep and wake up in a lucid dream. Then one kid reveals that their dream was actually a terrifying nightmare. In reality, a Munna had been giving kids lucid dreams but a Haunter moved in and scared the Munna into hiding in the basement and it's now giving kids nightmares.",
           "section | Questions",
           "bullet | Are the players excited to go in the house, or are they afraid?",
 "bullet |  What preparations do they make?",
-"bullet |  What kind of nightmare does the Haunter put them in?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What kind of nightmare does the Haunter put them in?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -475,16 +535,18 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The power has gone out in the pokemon center the trainers are staying in tonight, and pokemon are in danger! Nurse Joy sends the party down into the basement where Gavantulas have taken up residence, making webs out of electrical cables.",
           "section | Questions",
           "bullet | Why did the Gavantula need to come here?",
 "bullet |  What hazards did they create making their web of wires?",
 "bullet |  Is the damage fixable without the help of the Gavantula?",
-"bullet |  How can the party convince the Gavantula to help?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How can the party convince the Gavantula to help?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -492,15 +554,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players visit a castle deep in the wilderness. There's a group of people living there who use Noctowl to communicate with the their neighboring village across the mountains. One hasn't made it's way back in a while, and the castle residents are worried it got hurt in a mountain storm.",
           "section | Questions",
           "bullet | Where is the Noctowl?",
 "bullet |  What challenges stand between the party and rescuing the Noctowl?",
-"bullet |  What circumstance led to the Noctowls delivering messages in the first place?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What circumstance led to the Noctowls delivering messages in the first place?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -508,14 +572,16 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party visits a casino that's running a poker tournament with a grand prize of a shiny pokemon! It's too late for the party to enter, but they meet a teenager trying to win because they were friends with the shiny pokemon in the wild before the casino staff caught it.",
           "section | Questions",
           "bullet | How can the PCs help the teen win?",
-"bullet |  Who is winning the tournament, and what underhanded trick are they using to do it?"
-          
-        ],
-        "tags": [],
+"bullet |  Who is winning the tournament, and what underhanded trick are they using to do it?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -523,15 +589,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players start to see people milling about on the road up ahead. At the front of the crowd, they see the path is blocked by a group of Sudowoodo arm in arm, standing still as statues. Any attempt to push past them is met with attacks, and they don't even run from water attacks. (Loggers are illegally logging in their territory nearby, so they're protesting.)",
           "section | Questions",
           "bullet | How can the players discover the loggers?",
 "bullet |  What drastic action will the people stuck on the road that the players will want to prevent?",
-"bullet |  What machine do the loggers have that the players have to battle?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What machine do the loggers have that the players have to battle?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -539,15 +607,17 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party arrives at a town where everyone is acting strangely. They do nothing but tend to the trees in and around town, don't respond to the party at all or even operate the pokemon center. There's an overabundance of Paras in the area, and their mushrooms have taken over the people...",
           "section | Questions",
           "bullet | How do the Paras spread their mind control mushrooms to people?",
 "bullet |  What weakness do the mushrooms have that can free the people?",
-"bullet |  Where the leader of the Paras?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Where the leader of the Paras?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -555,16 +625,18 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party arrives in a rundown town where wild pokemon run rampant in the streets and bully the local people. The party are harassed by the pokemon as well, but a Decidueye swoops down from the rooftops and scares off the wild mon before leaving in the same way.",
           "section | Questions",
           "bullet | What tragedy prompted Decidueye to start cleaning up the town?",
 "bullet |  What big human event coming up is going to be swarmed with attacking wild Pokemon?",
 "bullet |  Who is leading the wild Pokemon?",
-"bullet |  How can the players help Decidueye defeat the leader of the wild Pokemon?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How can the players help Decidueye defeat the leader of the wild Pokemon?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -572,16 +644,18 @@
 "count": 1,
         "title": "World",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party comes across a festival being held in the woods celebrating the moon and witchy culture. It's a welcoming and pleasant group of people, but the woman in charge is worried: the Umbreon who helps them with their moon blessing each month is missing!",
           "section | Questions",
           "bullet | What problem is Umbreon dealing with out in the woods?",
 "bullet |  Whose behind it?",
 "bullet |  What bad thing will happen to the festival if Umbreon's mission fails?",
-"bullet |  How can the players find out what Umbreon is dealing with?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How can the players find out what Umbreon is dealing with?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "SaddleBrown",
          "icon": "globe" 
 },
@@ -589,15 +663,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | One stormy night, just as you finish your evening routines to get to bed in the Pokemon Center, there's a boom and the lights go out! The electronic door isn't opening either, and Nurse Joy announces over the PA that they'll have everything on the back up generator shortly, and not to be alarmed.",
           "section | Questions",
           "bullet | Which Pokemon of yours reacts badly to the situation?",
 "bullet |  Do you handle it well?",
-"bullet |  What do you do to help your Pokemon cope?"
-          
-        ],
-        "tags": [],
+"bullet |  What do you do to help your Pokemon cope?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -605,15 +681,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | One of the player's Pokemon becomes obsessed with the local speciality dish. They try and sneak away to get more in increasingly obvious ways.",
           "section | Questions",
           "bullet | What dish are they obsessed with?",
 "bullet |  How do you dissuade the Pokemon from running off?",
-"bullet |  How can the chef who made the dish help you convince the Pokemon too much of a good thing is bad?"
-          
-        ],
-        "tags": [],
+"bullet |  How can the chef who made the dish help you convince the Pokemon too much of a good thing is bad?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -621,15 +699,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | On the road, one of the player's pokemon trips and takes a nasty fall into a sharp stone. It's not dangerously hurt, but it's walking with a limp and seems upset.",
           "section | Questions",
           "bullet | How do you console your Pokemon?",
 "bullet |  Do you carry them of have them return to their pokeball?",
-"bullet |  Do you head straight for a pokemon center or keep the same pace?"
-          
-        ],
-        "tags": [],
+"bullet |  Do you head straight for a pokemon center or keep the same pace?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -637,15 +717,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The youngest of the party's Pokemon has basically attached itself to the hip of one of the party's more experienced Pokemon. It's taking it too far, annoying the older Mon and ignoring it's trainer.",
           "section | Questions",
           "bullet | What recent event might have cause the younger pokemon to start acting this way?",
 "bullet |  How do you deal with the situation?",
-"bullet |  How does the older Mon feel about this?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How does the older Mon feel about this?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -653,16 +735,18 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | One of the party's pokemon is dealing with some insomnia. Nurse Joy will tell them that this is a psychosomatic issue, but recommend the party visit a nearby farm with some Mareep living there. She says no one can resist falling asleep when resting on on a Mareep.",
           "section | Questions",
           "bullet | Why is the pokemon suffering from Insomnia?",
 "bullet |  Are the Mareep at the farm willing to help, or do they need to be convinced to?",
 "bullet |  What does the party need to do to get the Mareep on board?",
-"bullet |  How does this adventure help the players figure out the cause of the insomnia?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  How does this adventure help the players figure out the cause of the insomnia?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -670,15 +754,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | A famous team of Mudsdales are shooting a commercial in town. However there's a disaster, one of the Mudsdales was tripped during practice and they were all injured! The director asks if any trainers are willing to do a special ads using their Pokemon",
           "section | Questions",
           "bullet | What kind of commercial are they shooting?",
 "bullet |  How does each Pokemon feel about being on TV (use Natures as a guide)?",
-"bullet |  Was the accident with the Mudsdale really an accident?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Was the accident with the Mudsdale really an accident?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -686,15 +772,17 @@
 "count": 1,
         "title": "Bonding",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The town the party arrives in is home to a famous designer who designs outfits for humans that compliment their Pokemon. The party's pokemon are enamored with some of pictures of the designer's earlier work and really want their trainers to get outfits from the designer.",
           "section | Questions",
           "bullet | Is the designer a friendly person or are they some form of eccentric?",
 "bullet |  What does the designer need to make outfits for the party?",
-"bullet |  Who has that thing and won't give it them?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Who has that thing and won't give it them?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "darkgreen",
          "icon": "opposite-hearts" 
 },
@@ -702,15 +790,17 @@
 "count": 1,
         "title": "Teams",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party wanders across an investigative reporter. The Reporter is researching a potential safe house of an Evil Team and asks the party to help.",
           "section | Questions",
           "bullet | Where have the evil team members made a safe house?",
 "bullet |  How does the reporter use their pokemon to support their job?",
-"bullet |  What happens that causes the reporter to be discovered snooping around?"
-          
-        ],
-        "tags": [],
+"bullet |  What happens that causes the reporter to be discovered snooping around?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "black",
          "icon": "double-face-mask" 
 },
@@ -718,15 +808,17 @@
 "count": 1,
         "title": "Teams",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players encounter a young trainer surrounded by various members of a villainous team. They seem like they're in trouble, but they're smiling and excited.",
           "section | Questions",
           "bullet | What does the trainer have planned to defeat the grunts?",
 "bullet |  What did the trainer do that earned them the ire of the villainous team?",
-"bullet |  What plan are the grunts trying to achieve?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What plan are the grunts trying to achieve?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "black",
          "icon": "double-face-mask" 
 },
@@ -734,16 +826,18 @@
 "count": 1,
         "title": "Teams",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players are delivered a package via Pelipper courier. Inside is some kind of machine part that doesn't have any identification attached. Sometime later in the day, grunts of a villainous team start accosting them, wanting the part!",
           "section | Questions",
           "bullet | Why does the team need the part?",
 "bullet |  What will they be able to do once they get the part?",
 "bullet |  Who did the team steal the part from?",
-"bullet |   Who can the players bring the part to in order to keep it out of the team's hands?"
-          
-        ],
-        "tags": [],
+"bullet |   Who can the players bring the part to in order to keep it out of the team's hands?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "black",
          "icon": "double-face-mask" 
 },
@@ -751,15 +845,17 @@
 "count": 1,
         "title": "Teams",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The players encounter people unconscious and paralyzed, currently being looked over by Nurse Joy. Officer Jenny arrives and says this is the third incident like this today, an evil team has been leaving scenes like this while stealing the victim's pokemon. (A Quilfish's toxin is being used to knock out people.)",
           "section | Questions",
           "bullet | Where is the team going to appear next?",
 "bullet |  How can the players figure out Quilfish toxin is what's affecting the people?",
-"bullet |  What can the players do to protect themselves from the toxin?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What can the players do to protect themselves from the toxin?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "black",
          "icon": "double-face-mask" 
 },
@@ -767,16 +863,18 @@
 "count": 1,
         "title": "Teams",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | The party arrives in town and is pulled into the Pokemon Center in a hurry. A villainous team has been searching for something in town and the townsfolk are hiding to keep themselves safe. Oddly enough, the team isn't stealing any of the town's pokemon. (They're looking for a shiny rumored to be in town.)",
           "section | Questions",
           "bullet | Where is the shiny pokemon hiding?",
 "bullet |  Do the townsfolk know about it?",
 "bullet |  What secret weapon does the team have to find the shiny?",
-"bullet |  Is the shiny scared of the team, or are they playing games with them?"
-          
-        ],
-        "tags": [],
+"bullet |  Is the shiny scared of the team, or are they playing games with them?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1"],
         "color": "black",
          "icon": "double-face-mask" 
 },
@@ -784,16 +882,18 @@
 "count": 1,
         "title": "Legendaries",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | All the water has stopped flowing in the town the players arrive at. As it turns out, their lake has been frozen solid despite the warm weather and therefore no water gets to them. Articuno is behind this, but why?",
           "section | Questions",
           "bullet | Why did Articuno freeze the lake?",
 "bullet |  Who has the ability to talk to Articuno?",
 "bullet |  What will the party have to do to get Articuno to move on?",
-"bullet |  Is Articuno helping the people somehow?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Is Articuno helping the people somehow?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "Goldenrod",
          "icon": "cross-flare" 
 },
@@ -801,15 +901,17 @@
 "count": 1,
         "title": "Legendaries",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Legend has it that there was a Furret so large that it could encircle the entire world. Wild pokemon were being squished under it's massive size and couldn't see the sky from underneath the Furret. So the Furret buried all but it's head under the earth and sea and decided to nap for centuries...",
           "section | Questions",
           "bullet | Where is Furret's head popping out of the earth?",
 "bullet |  Who wants to wake the Furret up?",
-"bullet |  What will happen if it does?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  What will happen if it does?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "Goldenrod",
          "icon": "cross-flare" 
 },
@@ -817,15 +919,17 @@
 "count": 1,
         "title": "Legendaries",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Starting tonight, the players each share the same dream, them walking through a ruin up to a dead end wall. Each night a new Unown appears on the dead end wall, spelling out the name of a Legendary Pokemon.",
           "section | Questions",
           "bullet | Which Legendary are the Unown spelling?",
 "bullet |  Where is this ruin that the players are seeing in their dream?",
-"bullet |  Why are the Unown warning the players about the Legendary?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Why are the Unown warning the players about the Legendary?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "Goldenrod",
          "icon": "cross-flare" 
 },
@@ -833,15 +937,17 @@
 "count": 1,
         "title": "Legendaries",
         "contents": [
+          "subtitle || By Willowlark",
           "section | Prompt",
           "text | Dratini are rare even in the deep lakes they call home, but they are rarer yet in the open ocean. It's said that whenever Dratini come to the open ocean, they're creating a whirlpool to summon Lugia from. No one has ever witnessed this in person though.",
           "section | Questions",
           "bullet | Where do the players encounter a Dratini?",
 "bullet |  What challenges get in the way as they follow it?",
-"bullet |  Why are the Dratini calling Lugia?"
-          
-        ],
-        "tags": ["Poketober22"],
+"bullet |  Why are the Dratini calling Lugia?",
+          "fill",
+          "subtitle || Volume 1"
+          ],
+        "tags": ["Volume 1", "Poketober22"],
         "color": "Goldenrod",
          "icon": "cross-flare" 
 }

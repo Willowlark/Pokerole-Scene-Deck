@@ -1,0 +1,532 @@
+[
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The party is wandering in a dungeon when they find a pokemon who thinks they are a human.",
+          "section | Questions",
+          "bullet | What type of Pokemon are they?",
+"bullet | Are they really formerly a human?",
+"bullet | Does this 'human' believe the party when they inform them they are a pokemon?",
+"bullet | What is the world's current view on humans?",
+"bullet | Can this 'human' be turned back?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The party is sent up to meet a wise old Magmortar, this Magmortar was once part of one of the most famous Two pokemon explorer teams in the region, but for some reason they disbanded.",
+"text | Sadly when they reach the Magmortar, they are not immediately willing to help the party. As they either too grumpy to help, or don't think the world is worth saving.",
+          "section | Questions",
+          "bullet | What information does the party need, perhaps its pertains to an threat this Magmortar once helped quell?",
+"bullet | Is there a task the party can do to help renew Magmortar's faith in pokemon?",
+"bullet | Why did the original party disband?",
+"bullet |  Is Magmortar's former partner still alive?",
+"bullet |   Why did they leave?",
+"bullet | Is there an item the party will get after getting the information they need from Magmortar?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | An entire town of pokemon pops up over night. No one outside the village knows where it came from. None of the pokemon there are recognized as having come from anywhere other than that village.",
+"text | The party has been sent to investigate, the architecture looks like something ripped right out fairy tales about humans. The pokemon there are all giving the party strange looks. And some of them even claim to be 'human'. ",
+          "section | Questions",
+          "bullet | Are these actually all former humans?",
+"bullet | Why would someone turn an entire town into pokemon?",
+"bullet | Is there an up coming threat that needed new soilders?",
+"bullet | Is there a way to turn this town back to normal?",
+"bullet | Do the cookies at the Elygem's bakery actually taste good?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | For an entire week a town has gone silent. No travelers have come in or out of the town of Pripyat. However the following week mail starts coming in from the town of Pripyat. Mail that was from the week before they went silent. And now every week the same mail is sent out on loop.",
+"text | The party is sent there on a quest to investigate the fate of this town.",
+          "section | Questions",
+          "bullet | Does the party find some type of time loop?",
+"bullet |  Perhaps a curse from Dialga's anger?",
+"bullet | Maybe its a prank by Celebi?",
+"bullet | Is the town gone and someone's just trying to fake its still there?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A swarm of Elgyem fly down from space. They are carrying very unique wears comes down. They insist on trading primarily in evolution stones.",
+          "section | Questions",
+          "bullet | Why do they want evolution stones?",
+"bullet | Are these just merchants?",
+"bullet | Do they require any special items to communicate with the party?",
+"bullet | Can the party pay to use them as a form of fast travel?",
+"bullet | Are they a threat to the ecosystem?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A sawk comes into town one day wearing very strange clothing. They claim to be the choosen emissary of Mewtwo. And also claim to be a human.",
+          "section | Questions",
+          "bullet | What does the Sawk want?",
+"bullet | Does anyone know what a mewtwo is?",
+"bullet | Is anyone falling for the human act?",
+"bullet | Will the party have to save someone by revealing the Sawk is a sham?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A guild that has been a long time rival of your guild sends some pokemon to challenge your guild to a competition. This has happened many times before an the competitions have usually been good natured. Ranging from cooking contests, to speedrunning dungeons.",
+"text | This time the players have been choosen to represent their own guild.",
+          "section | Questions",
+          "bullet | What kind of contest is it?",
+"bullet | Does it take place in a dungeon, or in town?",
+"bullet | How does the choosen representatives of the rival guils treat the party?",
+"bullet | What kind of prize is there for the winning team?",
+"bullet | Does the other team play fair?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | While traveling around the party encounters Mew. Mew wants to play with the party so they introduce them to a bunch of dittos.",
+"text | Mew transforms into a ditto. The game is to figure out which ditto is actually Mew.",
+          "section | Questions",
+          "bullet | What clues might the Mew leave behind about who they are?",
+"bullet | Can mew stay transformed forever?",
+"bullet | What might the party get for winning the game?",
+"bullet | Why does one of the dittos keep asking for autographs?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | In the night someone stole the guild master's most prized possession. The whole guild is rounded up to help look for the stolen object.",
+          "section | Questions",
+          "bullet | What is the stolen object?",
+"bullet |  (Maybe its an award?",
+"bullet |  Or perhaps a gift the guild master was given by a mentor when they were just starting out?",
+"bullet | Was the object stolen by an outsider, or someone from the guild?",
+"bullet | Will this case lead the party into a mystery dungeon?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | While out exploring a Mystery Dungeon the party encounters Hoopa. Hoopa claims they can use magic rings to summon legendary artifacts, for a price that is.",
+"text | These items can be things like, the time spaceorbs, one of Arceus's plates, the blue or red orbs, etc.",
+          "section | Questions",
+          "bullet | Are these items the real deal?",
+"bullet | What does hoopa want in return for them?",
+"bullet | Do the items come with any side effects?",
+"bullet | Does acquiring items this way anger any of the legendaries?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A local rescue Team Wants to be the only rescue Team in the area. For this reason every time the Party takes on a contract, this local team will take the same contract and attempt to complete it first.",
+          "section | Questions",
+          "bullet | How far is this team willing to go to run the players out of business?",
+"bullet | Is everyone on the team fully commited to driving the players out of business?",
+"bullet | Is the local community suffering from this Team's insistence on only taking jobs the players have already signed up for?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild association feels there are not enough guilds in your local area. For this reason they have sent out an inspector to scout out all the local freelancer teams.",
+"text | If the party can impress the inspector they will be given a grant to help them build a guild hall.",
+          "section | Questions",
+          "bullet | How many teams is the party competing against?",
+"bullet | Besides combat ability, what is the inspector testing the party on?",
+"bullet | Does the inspector have any biases?",
+"bullet | Do they accept bribes?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | An inspector from the Guild Association is visiting to make sure your guild is up to code. They've come with very little warning.",
+          "section | Questions",
+          "bullet | Is this a routine inspection, or did someone file a complaint?",
+"bullet |  What does the guild master want the party to do in order make the inspection go more smoothly?",
+"bullet |  What happens if the guild fails the inspection?",
+"bullet |  Was it the guild's last warning?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild master decides to share a long held secret with the party. The guild master was once a human, and even still has a couple tools from back when they were human.",
+"text | Either as a reward, or to help prepare for an upcoming threat, the guild master gives the party one of these tools.",
+          "section | Questions",
+          "bullet | What is this tool?",
+"bullet |  Is it easily recognizable as having belonged to a human?",
+"bullet |  What situation could this item be used for?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A local guild wants the party to investigate a dungeon that only exists for one hour every day. The problem is the dungeon's entrance changes every time it appears.",
+"text | Half the job is just locating the enterance.",
+          "section | Questions",
+          "bullet | Is there any pattern to where the entrance likes to appear?",
+"bullet |  Is there any important item hidden in the dungeon?",
+"bullet |  Does exiting the dungeon take you to the same place you entered it from?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A nearby guild has had several complaints made against it. The party has been sent to investigate the validity of these claims.",
+          "section | Questions",
+          "bullet |  What is the guild accussed of?",
+"bullet |  How cooperative are the guild pokemon with the investigation?",
+"bullet |  Is there any truth to the claims?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild is holding an potluck with an interesting twist. You are only allowed to cook using ingredients you find inside of Mystery Dungeons.",
+"text | In addition there will be three judges that will appraise each dish. Only one dish may be submitted per each team.",
+          "section | Questions",
+          "bullet | What kind of prizes might be awarded to the winning dishes?",
+"bullet |  Does the guild take any measures to make sure no one cheats by buying food outside the dungeon?",
+"bullet |  What dishes will the players be competing against?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | While having a chat with the party a pokemon that helped build the guild accidentally lets slip that the Guildhall was secretly built on top of a mystery dungeon. They quickly ask the party not to tell this to anyone.",
+          "section | Questions",
+          "bullet | How can the party access this dungeon?",
+"bullet |  Does the reason this dungeon was kept secret have to do with what's inside it, or where it leads?",
+"bullet |  How will the guild master respond if they find out the party knows about this dungeon?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | A guildmate has realized they're library book is late. They claim to be too busy to return the book themselves. Upon entering the Library the party discovers that the place is in fact a mystery dungeon. Additionally the librarian immediately noticeable.",
+          "section | Questions",
+          "bullet | Why is the library a mystery dungeon?",
+"bullet |  Has it always been a mystery dungeon?",
+"bullet |  Where is the librarian?",
+"bullet |  How do they keep the books sorted with the entire format of the library constantly changing?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | Its been two days since the job broad has been updated, and the guild master is worried about why the Sentries have not reported in yet. The party is being sent along the road they traveled to find out what happened to them.",
+          "section | Questions",
+          "bullet | What kind of clues can be found on the road?",
+"bullet |  Did the sentries vanish before they reached the capital or on the way back?",
+"bullet |  Who was the last pokemon to see them?",
+"bullet |  Are they in trouble or did they just get lost?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild master is loudly celebrating about a new mystery dungeon that has been found. Claiming it might even be tied to a legendary. Plans are being made to send the whole guild on an expedition to the dungeon.",
+"text | Time comes for the day of the expedition and the guild master is no where to be found. In addition to this officials come to the guild saying they are here to shut the place down. EVERYONE is being interviewed and it feels like they are fishing for something.",
+          "section | Questions",
+          "bullet | What happened to the guild master?",
+"bullet |  Did they leave any clues behind to where this dungeon is?",
+"bullet |  What questions are the party being asked?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild is taking part in a job fair, and the guild wants the party to represent them there. Teaching young school pokemon what its like being in a guild.",
+"text | The party will need to construct a fake mystery dungeon(or possibly a real one) at the fair grounds. And a fake job broad to simulate the experience of doing guild work. ",
+"text | Members of the party might act as 'hostile' pokemon in the dungeon, but are not actually supposed to knock out fair goers.",
+          "section | Questions",
+          "bullet | Where is the fair being held?",
+"bullet |  Outside, or maybe inside a poke school?",
+"bullet |  What kind of jobs are on the fake job broad?",
+"bullet |  Do the young pokemon have any questions for the seasoned explorers?",
+"bullet |  Does the fair convince any of the pokemon that are old enough to apply for a job at the guild?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guild had a fire drill planned today, but a charamander that recently joined the guild throughly misunderstood what the point of a fire drill is and set the guild on fire for real.",
+          "section | Questions",
+          "bullet | How much of the guild is caught on fire before the charmander is corrected?",
+"bullet |  Is anyone trapped inside?",
+"bullet |  Is there anything the party can do to put out the fire?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | One day when its time to get up most of the guild is asleep and won't wake up. The guild master is asleep, and the party is among the awake.",
+          "section | Questions",
+          "bullet | Is a pokemon ir legendary responsible for what happened?",
+"bullet |  Is anyone taking charge while the guild master is asleep?",
+"bullet |  How can the party wake everyone up?",
+"bullet |  Was there any clues from the day before that might help?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | While fulfilling a job request in a dungeon the party encounters a zoura. Thus Zoura is running full speed and crashes into the party. They then proceed to scold the party for not watching where they were going.",
+"text | Later after they return from the dungeon everyone in town is getting mad at members of the party for things none of them did.",
+          "section | Questions",
+          "bullet | Is there any form of alibi that shows the party wasn't there at the time?",
+"bullet |  How serious are the accusations against the party?",
+"bullet |  What clues might help the party realize the zoura is behind it?",
+"bullet |  How might the party clear they're names?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | Overnight a new tavern appears on the edge of town. There was no sign of construction prior to this, its just fully built. And is staffed by but a single pokemon.",
+"text | A zoura, or perhaps a ditto? No one is really sure as they have never seen the barkeep's true form. It just changes form into whoever last addressed it.",
+"text | Even stranger everyone in town seems to remember the Tavern always being there. If the party tries going upstairs to the bedrooms while the barkeep is asleep. Then the whole place turns into a mystery dungeon.",
+          "section | Questions",
+          "bullet | Is the barkeep any known pokemon?",
+"bullet |  Why do the party remember that the Tavern wasn't always here?",
+"bullet |  For what reason does the place turn into a mystery dungeon when the owner is asleep?",
+"bullet |  How much does it cost to stay a night there?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+},
+{
+"count": 1,
+        "title": "PMD",
+        "contents": [
+          "subtitle || By Tempus",
+          "section | Prompt",
+          "text | The guildmaster calls together a meeting of the whole guild. As it turns out the guild has only stayed afloat due to the generosity of a sponser. They have scheduled to meet with the guild later today.",
+"text | What the guild master neglects to mention before the sponsor shows up is that they are a legendary. And as such not only do they have high standards they also have rather eccentric ones.",
+          "section | Questions",
+          "bullet | What legendary sponsored the guild?",
+"bullet |  Do they have any divine missions or tasks for the party?",
+"bullet |  Do any of the demands of the sponsor conflict with health and safety standards of the region?",
+"bullet |  How common is the knowledge of who this sponsor is?",
+          "fill",
+          "subtitle || Volume 2"
+        ],
+        "tags": ["Volume 2"],
+        "color": "Orange",
+         "icon": "dungeon-gate" 
+}
+]
